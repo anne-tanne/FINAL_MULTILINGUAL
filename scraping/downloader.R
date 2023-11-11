@@ -3,14 +3,14 @@ library(httr)
 
 # Define the function to download HTML files
 download_html <- function(df, target_dir) {
-  df %>%
+  df |>
     mutate(
       # Convert date to character and replace special characters in the title
       date = as.character(date),
       title = gsub(" ", "-", title),
       title = iconv(title, from = "UTF-8", to = "ASCII//TRANSLIT") # transliterate ä, ö, ü to ae, oe, ue
-    ) %>%
-    rowwise() %>%
+    ) |>
+    rowwise() |>
     do({
       try({
         # Construct the filename

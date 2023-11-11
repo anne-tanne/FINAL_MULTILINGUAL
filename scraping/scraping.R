@@ -26,10 +26,10 @@ parse_sitemap <- function(xml_url, publication_name, language, sitemap_dir, csv_
   
   # Extract details for each URL and compile into a dataframe
   df <- map_df(urls, ~{
-    loc <- xml_find_first(.x, ".//default:loc", ns) %>% xml_text()
-    publication_date <- xml_find_first(.x, ".//news:publication_date", ns) %>% xml_text()
-    title <- xml_find_first(.x, ".//news:title", ns) %>% xml_text()
-    keywords <- xml_find_first(.x, ".//news:keywords", ns) %>% xml_text()
+    loc <- xml_find_first(.x, ".//default:loc", ns) |> xml_text()
+    publication_date <- xml_find_first(.x, ".//news:publication_date", ns) |> xml_text()
+    title <- xml_find_first(.x, ".//news:title", ns) |> xml_text()
+    keywords <- xml_find_first(.x, ".//news:keywords", ns) |> xml_text()
     
     # Optional: Extract image location
     image_node <- xml_find_first(.x, ".//image:loc", ns)
