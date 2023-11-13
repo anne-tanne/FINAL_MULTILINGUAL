@@ -17,30 +17,22 @@ join_csv_by_publication <- function(publication_name, csv_dir, final_dir) {
   publication_files <- all_csv_files[grepl(publication_name, all_csv_files)]
   
   # Read and combine all filtered files
-  combined_df <- map_df(publication_files, read_csv) |>
-    # Remove placeholder columns like ...1, ...2 etc.
-    select(-matches("^\\.\\.\\.\\d+$")) |>
-    mutate(publication_date = ymd_hms(publication_date),
-           date = as.Date(publication_date),
-           time = format(publication_date, "%H:%M:%S")) |>
-    select(-publication_date) |>
-    select(-publication_name) |>
-    mutate(language = ifelse(publication_name == "20minuten", "de",
-                             ifelse(publication_name == "20minutes", "fr", language))) |>
-    {
-      if (publication_name %in% c("20minuten", "20minutes")) {
-        select(., -keywords)
-      } else {
-        .
-      }
-    } |>
-    {
-      if (publication_name == "20minuti") {
-        select(., -image_loc)
-      } else {
-        .
-      }
-    } |>
+  combined_df <- publication_files %>% 
+    map_df(read_csv) %>%
+    select(-matches("^\\.\\.\\.\\d+$")) %>%
+    mutate(
+      publication_date = ymd_hms(publication_date),
+      date = as.Date(publication_date),
+      time = format(publication_date, "%H:%M:%S"),
+      language = case_when(
+        publication_name == "20minuten" ~ "de",
+        publication_name == "20minutes" ~ "fr",
+        TRUE ~ language
+      )
+    ) %>%
+    select(-publication_date, -publication_name) %>%
+    { if (publication_name %in% c("20minuten", "20minutes")) select(., -keywords) else . } %>%
+    { if (publication_name == "20minuti") select(., -image_loc) else . } %>%
     arrange(date, time) # Sort by date and time
   
   # Write the processed dataframe to a new CSV file in the 'final' directory
