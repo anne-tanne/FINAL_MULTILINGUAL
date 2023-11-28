@@ -27,11 +27,11 @@ Fall Semester 2023
   
   
 ## Repository Structure  
-  
-- code/ \# All project code  
-  
-- data/ \# Data files (if applicable)  
-  
-- paper/ \# The written paper or report  
-  
-- README.md \# This file
+- code 
+	- All project code
+- data
+	- Data files 
+- paper
+	- The written paper or report
+- README.md
+	- This file
