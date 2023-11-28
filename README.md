@@ -1,20 +1,20 @@
-\# Multilingual Computational Methods Project  
+# Multilingual Computational Methods Project  
   
   
 This repository contains my coursework for the Multilingual
-Computational Methods course. It includes both the code and the
+Computational Methods for Text-based Media course. It includes both the code and the
 accompanying paper.  
   
   
-\## Project Overview  
+## Project Overview  
   
   
-\*Your Project Title Here\*  
-\*Anne-Sophie Skarabis\*  
-\*20-725-487\*  
+*Your Project Title Here*  
+*Anne-Sophie Skarabis*  
+*20-725-487*  
   
   
-\## Course Details  
+## Course Details  
 Multilingual Computational Methods for Text-based Media  
 University of Zurich, Department of Communication Research  
 Instructor: Morley Weston  
@@ -22,11 +22,11 @@ Fall Semester 2023
   
   
   
-\## Project Description  
+## Project Description  
   
   
   
-\## Repository Structure  
+## Repository Structure  
   
 - code/ \# All project code  
   
