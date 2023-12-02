@@ -43,9 +43,15 @@ sanitize_filename <- function(string) {
 }
 
 # Function to download HTML files using sanitized filenames
-download_html_files <- function(csv_file_path, target_dir) {
+download_html_files <- function(csv_file_path, target_dir, start_date, end_date) {
   # Read the CSV file
   df <- read_csv(csv_file_path, show_col_types = FALSE)
+  
+  # Convert dates to Date type for comparison
+  df$date <- as.Date(df$date)
+  
+  # Filter the dataframe for the specified date range
+  df <- df %>% filter(date >= as.Date(start_date) & date <= as.Date(end_date))
   
   # Iterate over each row in the dataframe
   for(i in 1:nrow(df)) {
@@ -83,6 +89,8 @@ dir.create(file.path(html_dir, "20minutes"), showWarnings = FALSE)
 
 # List of publication names
 publications <- c("20minuti", "20minuten", "20minutes")
+start_date <- "2023-11-10"
+end_date <- "2023-11-24"
 
 # Process each publication's CSV files
 for (publication in publications) {
@@ -95,8 +103,8 @@ for (publication in publications) {
   # Print message to console
   message("Starting downloads for ", publication)
   
-  # Download the HTML files for the current publication
-  download_html_files(csv_file_path, target_dir)
+  # Download the HTML files for the current publication within the date range
+  download_html_files(csv_file_path, target_dir, start_date, end_date)
   
   # Print message to console
   message("Completed downloads for ", publication)
