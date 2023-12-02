@@ -51,7 +51,7 @@ download_html_files <- function(csv_file_path, target_dir, start_date, end_date)
   df$date <- as.Date(df$date)
   
   # Filter the dataframe for the specified date range
-  df <- df %>% filter(date >= as.Date(start_date) & date <= as.Date(end_date))
+  df <- df |> filter(date >= as.Date(start_date) & date <= as.Date(end_date))
   
   # Iterate over each row in the dataframe
   for(i in 1:nrow(df)) {
