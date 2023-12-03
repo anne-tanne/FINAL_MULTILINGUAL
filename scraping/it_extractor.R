@@ -3,12 +3,15 @@ library(readr)
 library(dplyr)
 library(stringr)
 library(purrr)
+library(rvest)
 
 # Define the path to the directory containing the HTML files
 directory_path <- "HTML/20minuti/"
 
 # List all HTML files in the directory
 file_paths <- list.files(directory_path, pattern = "\\.html$", full.names = TRUE)
+
+file_paths
 
 # Define a function to process each HTML file
 process_file <- function(file_path) {
@@ -37,7 +40,7 @@ process_file <- function(file_path) {
   main_content_combined <- paste(main_content, collapse=" ")
   
   # Return a dataframe
-  tibble(Title = title, Subtitle = subtitle, Content = main_content_combined)
+  tibble(Title = title, Header = subtitle, Content = main_content_combined)
 }
 
 

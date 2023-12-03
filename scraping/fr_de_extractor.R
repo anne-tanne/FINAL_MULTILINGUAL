@@ -48,7 +48,7 @@ process_file <- function(file_path) {
     }
     
     # Create a dataframe with the extracted information
-    tibble(Genre = genre, Title = title, Content = main_content_combined)
+    tibble(Title = title, Header = genre, Content = main_content_combined)
   }, error = function(e) {
     # If an error occurs, print a message and return NULL to skip this entry
     message("Error processing file: ", basename(file_path), "\nError: ", e)
