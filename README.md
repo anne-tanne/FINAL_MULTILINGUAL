@@ -4,7 +4,8 @@
 This repository contains my coursework for the Multilingual
 Computational Methods for Text-based Media course. It includes both the code and the
 accompanying paper.  
-  
+
+This readme isn't ready yet. 
   
 ## Project Overview  
   
