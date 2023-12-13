@@ -1,0 +1,593 @@
+LocationName,Count
+schweiz,183
+franken,136
+zürich,74
+deutschland,62
+usa,55
+israel,49
+stadt,42
+basel,27
+europa,27
+italien,26
+bern,24
+china,23
+frankreich,21
+ukraine,19
+brasilien,19
+gaza,17
+spanien,17
+genf,17
+new york,16
+luzern,15
+basler,15
+berlin,15
+berner,14
+paris,14
+türkei,14
+israels,14
+zermatt,13
+stadt zürich,11
+kosovo,11
+london,11
+kanton bern,11
+tessin,11
+österreich,11
+grossbritannien,11
+rio de janeiro,10
+australien,10
+katar,9
+kanton zürich,9
+japan,9
+portugal,9
+kalifornien,9
+iran,9
+wallis,8
+russland,8
+argentinien,8
+alpen,8
+rumänien,8
+zug,8
+rom,8
+matterhorn,8
+chinas,7
+rega,7
+barcelona,7
+biel,6
+mexiko,6
+rio,6
+são paulo,6
+landes,6
+thailand,6
+baden,6
+peking,6
+miami,6
+dubai,6
+tel aviv,5
+bergen,5
+winterthur,5
+nati,5
+essen,5
+wales,5
+silicon valley,5
+turin,5
+wien,5
+buenos aires,5
+chur,5
+tokio,5
+atlantik,5
+thun,5
+schaffhausen,5
+las vegas,5
+belgien,5
+kanada,5
+sasha,4
+frauenfeld,4
+freiburg,4
+altstadt,4
+san francisco,4
+kiew,4
+sevilla,4
+reykjavik,4
+hals,4
+florida,4
+polen,4
+domodossola,4
+islands,4
+england,4
+manhattan,4
+russlands,4
+bahamas,4
+moskau,4
+dublin,4
+kitzbühel,4
+los angeles,4
+taiwan,4
+vigonovo,4
+gurgl,4
+new yorker,3
+lausanne,3
+rhein,3
+arizona,3
+hamburg,3
+lenzburg,3
+georgia,3
+spreitenbach,3
+ohio,3
+washington,3
+wyoming,3
+offenburg,3
+bali,3
+athen,3
+hotel,3
+texas,3
+amsterdam,3
+istanbul,3
+sydney,3
+frankfurt,3
+luxemburg,3
+island,3
+grings,3
+holland,3
+afrika,3
+uruguay,3
+lugano,3
+kreta,2
+ötztal,2
+montana,2
+guatemala,2
+mond,2
+vaduz,2
+singapur,2
+perron,2
+dallas,2
+gwynedd,2
+brüssel,2
+finnland,2
+tilburg,2
+sri lanka,2
+iowa,2
+tirol,2
+san diego,2
+harlech,2
+porthmadog,2
+delhi,2
+belarus,2
+new york city,2
+busses,2
+aldi,2
+tel,2
+constantin,2
+irak,2
+xi,2
+kleve,2
+cortina d'ampezzo,2
+monaco,2
+kraft,2
+massachusetts,2
+graben,2
+colorado,2
+nepal,2
+nordamerika,2
+estland,2
+sauna,2
+rainbow bridge,2
+niagara,2
+kyoto,2
+wimbledon,2
+cambridge,2
+san marino,2
+queensland,2
+niedersachsen,2
+arosa,2
+kuba,2
+harry,2
+piancavallo,2
+los angeles county,2
+pristina,2
+kanton,2
+amerika,2
+verena,2
+michigan,2
+vietnam,2
+lake superior,2
+leine,2
+ganges,2
+turetta,2
+mount fuji,2
+athens,2
+teheran,2
+chile,2
+malta,2
+stuttgart,2
+ghana,2
+zoo,2
+pilger,2
+lissabon,2
+altdorf,2
+ruanda,2
+sacramento,2
+blasenberg,2
+grindavík,2
+salzburg,2
+málaga,2
+langnau,2
+andorra,2
+kopenhagen,2
+clarence house,2
+missouri,2
+belgrad,2
+la patria,1
+stein,1
+peso,1
+kabul,1
+cartagena,1
+mitchell,1
+coco,1
+darm,1
+vatikan,1
+candé,1
+saint-maurice,1
+priors,1
+kehlen,1
+pirola,1
+getsemaní,1
+bukarest,1
+sternenberg,1
+new jersey,1
+manchester,1
+fossò,1
+moray,1
+maine,1
+samir,1
+boden,1
+fort detrick,1
+sölden,1
+padua,1
+nuijamaa,1
+nevada,1
+hitchin,1
+eiger,1
+fosso,1
+diana,1
+cundinamarca,1
+aare,1
+villach,1
+gabriella,1
+north dakota,1
+kärnten,1
+meer,1
+indore,1
+jefferson city,1
+velos,1
+salla,1
+hotel savoy,1
+maryland,1
+monrovia,1
+santa maria del sasso,1
+jura,1
+plains,1
+evanston,1
+zoltan,1
+doubs,1
+brand,1
+illinois,1
+broadway,1
+dauru,1
+marchand,1
+helsinki,1
+somalia,1
+topf,1
+mulhouse,1
+hungerburgbahn,1
+liberia,1
+kaltbrunn,1
+neptun,1
+eris,1
+pluto,1
+comedy,1
+ruth,1
+mozes,1
+aviv,1
+halle,1
+maihof,1
+palermo,1
+san biagio,1
+mord,1
+schlatt,1
+khartum,1
+sudan,1
+montreux,1
+abu dhabi,1
+ibiza,1
+kloten,1
+gebiet,1
+naumburg,1
+jakarta,1
+steiermark,1
+cham,1
+twickenham riverside,1
+hildesheim,1
+castenray,1
+hawaii,1
+bim,1
+bus,1
+magdas hotel,1
+café,1
+alpstein,1
+spass,1
+fort lauderdale,1
+kinshasa,1
+brescia,1
+mamba,1
+kronenhof,1
+stans,1
+hannover,1
+shiloh,1
+dingen,1
+salmen,1
+phoenix,1
+hilton,1
+pretoria,1
+utah,1
+steg,1
+sturm,1
+korea,1
+busan,1
+crevoladossola,1
+preglia,1
+brig,1
+thanksgiving,1
+valence,1
+alpine,1
+malé,1
+uri,1
+coffs harbour,1
+mann,1
+coomera,1
+tamarindo,1
+costa rica,1
+synagoge,1
+minnesota,1
+philadelphia,1
+loire,1
+nantucket,1
+kanarische inseln,1
+indianapolis,1
+warschau,1
+indiana,1
+pennsylvania,1
+osaka,1
+lille,1
+maden,1
+tirana,1
+guadalajara,1
+toulouse,1
+grenoble,1
+crépol,1
+guéret,1
+karumba,1
+scatenato,1
+coop,1
+saalbach,1
+santa claus,1
+rennweg,1
+panang,1
+höllental,1
+hungerburg,1
+noël,1
+innsbruck,1
+schwarzwald,1
+lewiston,1
+shrewsbury,1
+dornach,1
+okinawa,1
+roland,1
+eis,1
+sand,1
+uran,1
+radium,1
+see,1
+limoges,1
+concord,1
+olympia,1
+new hampshire,1
+lou,1
+berg,1
+lava,1
+panama,1
+interlaken,1
+burgdorf,1
+suisse,1
+upper east side,1
+chicago,1
+steine,1
+johan,1
+ur,1
+egnatia,1
+quader,1
+angus,1
+marcelline,1
+zolli,1
+corona,1
+kirkpatrick,1
+pentagon,1
+elena,1
+four seasons hotel,1
+rathaus,1
+milo,1
+catania,1
+nottingham,1
+tucson,1
+westminster abbey,1
+biella,1
+aschau,1
+malibu,1
+berry,1
+reims,1
+pontault-combault,1
+pin,1
+suffolk,1
+framlingham,1
+antwerpen,1
+kanye,1
+núñez,1
+breitenrain,1
+gallina,1
+hagari,1
+yorkshire,1
+schulterhöhe,1
+racecourse ground,1
+hollywood,1
+wrexham,1
+kamberi,1
+ladispoli,1
+vittoria,1
+billings,1
+pole,1
+whittier,1
+wellenberg,1
+nazaré,1
+lidl,1
+daheim,1
+marín,1
+playa,1
+nassau,1
+hakan,1
+cape canaveral,1
+kimba,1
+randa,1
+spots,1
+narrabeen,1
+tuvalu,1
+fendi,1
+maui,1
+bormio,1
+papua,1
+new south wales,1
+eilat,1
+steinhausen,1
+baar,1
+hyde park,1
+bettes,1
+zeka,1
+last,1
+langendorf,1
+gloucestershire,1
+highgrove,1
+horgen,1
+anton,1
+concordia,1
+beaver creek,1
+königreich,1
+riad,1
+saragossa,1
+braga,1
+amorim,1
+laundos,1
+giessen,1
+gazastreifen,1
+marvão,1
+porto,1
+glasgow,1
+galway,1
+anne,1
+buckingham palace,1
+ramallah,1
+barranquilla,1
+napa,1
+williamsburg,1
+london eye,1
+mayfair,1
+edinburgh castle,1
+tower bridge,1
+chinatown,1
+medina,1
+bangkok,1
+venezuela,1
+versailles,1
+tirano,1
+périgord,1
+braunschweig,1
+musk,1
+tuena,1
+büren,1
+weiden,1
+kansas,1
+leawood,1
+cori,1
+dilu,1
+ginza,1
+camden,1
+naima,1
+amaya,1
+york,1
+weiss,1
+bründler,1
+zenith,1
+milano,1
+birmingham,1
+nadal,1
+yuri,1
+elias,1
+mofa,1
+den haag,1
+miner,1
+alabama,1
+mcwhorter,1
+wisconsin,1
+pisa,1
+la repubblica,1
+bologna,1
+bellagio,1
+vegas,1
+d,1
+augsburg,1
+hessen,1
+union,1
+heimen,1
+beverly hills,1
+strassburg,1
+belfast,1
+north yorkshire,1
+sierra leone,1
+emilia-romagna,1
+madagaskar,1
+yucatán,1
+freiberg,1
+amiens,1
+brownsville,1
+isla,1
+budapest,1
+boston,1
+east sandwich,1
+cape cod,1
+vendée,1
+waid,1
+meyer,1
+eiswasser,1
+bonnefontaine,1
+rue,1
+santa cruz la laguna,1
+samarkand,1
+monterey park,1
+nancy,1
+bodensee,1
+lenz,1
+sofia,1
+baku,1
+yakin,1
+disneyland,1
+district 12,1
+meran,1
+inverloch,1
+atlanta,1
+owens,1
+montecito,1
+blackhead peak,1
+finney,1
+archuleta county,1
+tass,1
+laupen,1
+mesa,1
+bonn,1
+naschmarkt,1
