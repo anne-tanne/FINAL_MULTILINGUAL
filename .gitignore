@@ -5,3 +5,5 @@ scraping/.Rhistory
 scraping/csv_files/.DS_Store
 scraping/.DS_Store
 data_analysis/.ipynb_checkpoints/location_analysis-checkpoint.ipynb
+data_analysis/archive/dicts/allCountries.txt
+data_analysis/archive/dicts/allCountries.csv
