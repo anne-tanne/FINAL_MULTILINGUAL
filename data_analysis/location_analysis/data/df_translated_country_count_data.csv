@@ -1,0 +1,104 @@
+GermanName,Count,Coordinates,Longitude,Latitude,ISO2,ISO3,EnglishName,CapitalNameGerman
+Schweiz,315,"(46.946416, 7.396394)",7.396394,46.946416,CH,CHE,Switzerland,Bern
+Deutschland,69,"(52.524932, 13.407032)",13.407032,52.524932,DE,DEU,Germany,Berlin
+Israel,49,"(31.759595, 35.215315)",35.215315,31.759595,IL,ISR,Israel,Jerusalem
+Italien,34,"(41.878243, 12.528091)",12.528091,41.878243,IT,ITA,Italy,Rom
+Frankreich,32,"(48.858705, 2.342865)",2.342865,48.858705,FR,FRA,France,Paris
+Ukraine,20,"(50.469863, 30.431971)",30.431971,50.469863,UA,UKR,Ukraine,Kiew
+Brasilien,19,"(-11.929178, -49.542799)",-49.542799,-11.929178,BR,BRA,Brazil,Brasília
+Spanien,17,"(40.429913, -3.669245)",-3.669245,40.429913,ES,ESP,Spain,Madrid
+Österreich,17,"(48.198674, 16.348388)",16.348388,48.198674,AT,AUT,Austria,Wien
+Türkei,14,"(39.91987, 32.85427)",32.85427,39.91987,TR,TUR,Turkey,Ankara
+Japan,12,"(35.695126, 139.75391)",139.75391,35.695126,JP,JPN,Japan,Tokio
+Australien,12,"(-35.470057, 148.954507)",148.954507,-35.470057,AU,AUS,Australia,Canberra
+Vereinigtes Königreich,12,"(51.509648, -0.099076)",-0.099076,51.509648,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London
+Kosovo,12,"(42.67272, 21.16688)",21.16688,42.67272,XK,,,Priština
+Kosovo,12,"(42.67272, 21.16688)",21.16688,42.67272,XK,,,Pristina
+Katar,10,"(25.251557, 51.564826)",51.564826,25.251557,QA,QAT,Qatar,Doha
+Argentinien,9,"(-34.607357, -58.454595)",-58.454595,-34.607357,AR,ARG,Argentina,Buenos Aires
+Portugal,9,"(38.748243, -9.140093)",-9.140093,38.748243,PT,PRT,Portugal,Lissabon
+Schweden,9,"(59.275254, 18.035164)",18.035164,59.275254,SE,SWE,Sweden,Stockholm
+Russland,9,"(55.741469, 37.615561)",37.615561,55.741469,RU,RUS,Russian Federation,Moskau
+Dänemark,9,"(55.704438, 12.502119)",12.502119,55.704438,DK,DNK,Denmark,Kopenhagen
+Iran,9,"(35.69439, 51.42151)",51.42151,35.69439,IR,IRN,Iran (Islamic Republic of),Teheran
+Rumänien,8,"(44.435842, 26.085733)",26.085733,44.435842,RO,ROU,Romania,Bukarest
+Mexiko,7,"(19.371422, -99.150344)",-99.150344,19.371422,MX,MEX,Mexico,Mexiko-Stadt
+Ägypten,7,"(30.079694, 31.323437)",31.323437,30.079694,EG,EGY,Egypt,Kairo
+Belgien,7,"(50.843183, 4.371755)",4.371755,50.843183,BE,BEL,Belgium,Brüssel
+Thailand,7,"(13.881591, 100.644533)",100.644533,13.881591,TH,THA,Thailand,Bangkok
+Irland,6,"(53.340305, -6.293676)",-6.293676,53.340305,IE,IRL,Ireland,Dublin
+China (Volksrepublik),6,"(39.937967, 116.417592)",116.417592,39.937967,CN,CHN,China,Peking
+Ungarn,6,"(47.516581, 19.092281)",19.092281,47.516581,HU,HUN,Hungary,Budapest
+Albanien,5,"(41.282045, 19.799067)",19.799067,41.282045,AL,ALB,Albania,Tirana
+Griechenland,5,"(37.988579, 23.728541)",23.728541,37.988579,GR,GRC,Greece,Athen
+Bahamas,5,"(25.05823, -77.34306)",-77.34306,25.05823,BS,BHS,Bahamas,Nassau
+Norwegen,5,"(59.974453, 10.735045)",10.735045,59.974453,NO,NOR,Norway,Oslo
+Kanada,5,"(45.209415, -75.783876)",-75.783876,45.209415,CA,CAN,Canada,Ottawa
+Indien,5,"(28.613789, 77.213072)",77.213072,28.613789,IN,IND,India,Neu-Delhi
+Polen,5,"(52.237695, 21.005427)",21.005427,52.237695,PL,POL,Poland,Warschau
+Afghanistan,5,"(34.52813, 69.17233)",69.17233,34.52813,AF,AFG,Afghanistan,Kabul
+Slowenien,5,"(46.063562, 14.48854)",14.48854,46.063562,SI,SVN,Slovenia,Ljubljana (Laibach)
+Serbien,4,"(44.782449, 20.46444)",20.46444,44.782449,RS,SRB,Serbia,Belgrad
+Tschechien,4,"(50.06694, 14.460249)",14.460249,50.06694,CZ,CZE,Czechia,Prag
+Palästina,4,"(None, None)",,,PS,PSE,"Palestine, State of",Ostjerusalem
+Palästina,4,"(31.898811, 35.195414)",35.195414,31.898811,PS,PSE,"Palestine, State of",Ramallah
+Neuseeland,4,"(-41.281385, 175.32902)",175.32902,-41.281385,NZ,NZL,New Zealand,Wellington
+Taiwan,4,"(25.04776, 121.53185)",121.53185,25.04776,TW,TWN,"Taiwan, Province of China",Taipeh
+Zypern,4,"(35.178646, 33.368885)",33.368885,35.178646,CY,CYP,Cyprus,Nikosia
+Bulgarien,3,"(42.685984, 23.326714)",23.326714,42.685984,BG,BGR,Bulgaria,Sofia
+Indonesien,3,"(-6.182283, 106.839426)",106.839426,-6.182283,ID,IDN,Indonesia,Jakarta
+Syrien,3,"(33.5102, 36.29128)",36.29128,33.5102,SY,SYR,Syrian Arab Republic,Damaskus
+Kroatien,3,"(45.806026, 15.976218)",15.976218,45.806026,HR,HRV,Croatia,Zagreb (Agram)
+Philippinen,3,"(14.593819, 120.992302)",120.992302,14.593819,PH,PHL,Philippines,Manila
+Luxemburg,3,"(49.6113, 6.12941)",6.12941,49.6113,LU,LUX,Luxembourg,Luxemburg
+Eritrea,3,"(15.33805, 38.93184)",38.93184,15.33805,ER,ERI,Eritrea,Asmara
+Island,3,"(64.09518, -21.861966)",-21.861966,64.09518,IS,ISL,Iceland,Reykjavík
+Jemen,3,"(15.35472, 44.20667)",44.20667,15.35472,YE,YEM,Yemen,Sanaa
+Niederlande (offiziell),3,"(52.37243, 4.89973)",4.89973,52.37243,NL,NLD,Netherlands,Amsterdam
+Uruguay,3,"(-34.83346, -56.16735)",-56.16735,-34.83346,UY,URY,Uruguay,Montevideo
+Kolumbien,3,"(4.635456, -74.08768)",-74.08768,4.635456,CO,COL,Colombia,Bogotá
+Irak,2,"(33.340336, 44.329214)",44.329214,33.340336,IQ,IRQ,Iraq,Bagdad
+Libyen,2,"(32.8925, 13.180012)",13.180012,32.8925,LY,LBY,Libya,Tripolis
+Ghana,2,"(5.545935, -0.210089)",-0.210089,5.545935,GH,GHA,Ghana,Accra
+Estland,2,"(59.401347, 24.693912)",24.693912,59.401347,EE,EST,Estonia,Tallinn (Reval)
+Sri Lanka,2,"(6.934744, 79.842725)",79.842725,6.934744,LK,LKA,Sri Lanka,Colombo
+Vietnam,2,"(21.0245, 105.84117)",105.84117,21.0245,VN,VNM,Viet Nam,Hanoi
+Malta,2,"(35.898936, 14.512859)",14.512859,35.898936,MT,MLT,Malta,Valletta
+Nepal,2,"(27.70169, 85.3206)",85.3206,27.70169,NP,NPL,Nepal,Kathmandu
+Ruanda,2,"(-1.947466, 30.059795)",30.059795,-1.947466,RW,RWA,Rwanda,Kigali
+Singapur,2,"(1.366923, 103.801292)",103.801292,1.366923,SG,SGP,Singapore,Singapur
+Andorra,2,"(42.504294, 1.518714)",1.518714,42.504294,AD,AND,Andorra,Andorra la Vella
+Liechtenstein,2,"(47.167938, 9.512335)",9.512335,47.167938,LI,LIE,Liechtenstein,Vaduz
+Monaco,2,"(43.733783, 7.418464)",7.418464,43.733783,MC,MCO,Monaco,Monaco
+Kuba,2,"(23.13302, -82.38304)",-82.38304,23.13302,CU,CUB,Cuba,Havanna
+Kasachstan,2,"(51.189242, 71.43209)",71.43209,51.189242,KZ,KAZ,Kazakhstan,Astana
+Finnland,2,"(60.20787, 24.99935)",24.99935,60.20787,FI,FIN,Finland,Helsinki
+Guatemala,2,"(14.64072, -90.51327)",-90.51327,14.64072,GT,GTM,Guatemala,Guatemala-Stadt
+Tunesien,1,"(33.687264, 9.007775)",9.007775,33.687264,TN,TUN,Tunisia,Tunis
+Oman,1,"(23.611705, 58.492641)",58.492641,23.611705,OM,OMN,Oman,Maskat
+Äthiopien,1,"(9.018947, 38.746032)",38.746032,9.018947,ET,ETH,Ethiopia,Addis Abeba
+Madagaskar,1,"(-18.902964, 47.522391)",47.522391,-18.902964,MG,MDG,Madagascar,Antananarivo
+Sierra Leone,1,"(8.489846, -13.232287)",-13.232287,8.489846,SL,SLE,Sierra Leone,Freetown
+Panama,1,"(8.9936, -79.51973)",-79.51973,8.9936,PA,PAN,Panama,Panama-Stadt
+Slowakei,1,"(48.165064, 17.145673)",17.145673,48.165064,SK,SVK,Slovakia,Bratislava (Pressburg)
+Venezuela,1,"(10.505146, -66.917878)",-66.917878,10.505146,VE,VEN,Venezuela (Bolivarian Republic of),Caracas
+Aserbaidschan,1,"(40.378395, 49.840288)",49.840288,40.378395,AZ,AZE,Azerbaijan,Baku
+Bosnien und Herzegowina,1,"(43.84864, 18.35644)",18.35644,43.84864,BA,BIH,Bosnia and Herzegovina,Sarajevo
+Saudi-Arabien,1,"(24.664126, 46.814232)",46.814232,24.664126,SA,SAU,Saudi Arabia,Riad
+Niederlande (Regierungssitz),1,"(52.07114, 4.29916)",4.29916,52.07114,NL,NLD,Netherlands,Den Haag
+Armenien,1,"(40.155704, 44.524938)",44.524938,40.155704,AM,ARM,Armenia,Jerewan
+Seychellen,1,"(22.381131, 114.135572)",114.135572,22.381131,SC,SYC,Seychelles,Victoria
+San Marino,1,"(43.936245, 12.447407)",12.447407,43.936245,SM,SMR,San Marino,San Marino
+Südafrika,1,"(-25.746763, 28.206091)",28.206091,-25.746763,ZA,ZAF,South Africa,Pretoria (Tshwane)
+Tuvalu,1,"(-8.4379, 179.17031)",179.17031,-8.4379,TV,TUV,Tuvalu,Funafuti
+Marokko,1,"(33.970785, -6.842736)",-6.842736,33.970785,MA,MAR,Morocco,Rabat
+Somalia,1,"(2.03711, 45.34375)",45.34375,2.03711,SO,SOM,Somalia,Mogadischu
+Liberia,1,"(6.31459, -10.802055)",-10.802055,6.31459,LR,LBR,Liberia,Monrovia
+Costa Rica,1,"(37.354559, -121.883844)",-121.883844,37.354559,CR,CRI,Costa Rica,San José
+Malediven,1,"(35.888972, 14.431432)",14.431432,35.888972,MV,MDV,Maldives,Malé
+Vereinigte Arabische Emirate,1,"(24.365909, 54.582942)",54.582942,24.365909,AE,ARE,United Arab Emirates,Abu Dhabi
+Sudan,1,"(15.55177, 32.53241)",32.53241,15.55177,SD,SDN,Sudan,Khartum
+Mosambik,1,"(-25.96553, 32.58322)",32.58322,-25.96553,MZ,MOZ,Mozambique,Maputo
+Lettland,1,"(56.971149, 24.142749)",24.142749,56.971149,LV,LVA,Latvia,Riga
+Mazedonien,1,"(42.00122, 21.42878)",21.42878,42.00122,MK,MKD,North Macedonia,Skopje
+"Kongo, Demokratische Republik",1,"(-4.32142, 15.30807)",15.30807,-4.32142,CD,COD,"Congo, Democratic Republic of the",Kinshasa
